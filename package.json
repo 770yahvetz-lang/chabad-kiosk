@@ -1,0 +1,11 @@
+{
+  "name": "chabad-kiosk",
+  "version": "1.0.0",
+  "main": "server.cjs",
+  "scripts": {
+    "start": "node server.cjs"
+  },
+  "dependencies": {
+    "@google-cloud/firestore": "^7.0.0"
+  }
+}
